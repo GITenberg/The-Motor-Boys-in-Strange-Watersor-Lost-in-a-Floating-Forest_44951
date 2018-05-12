@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1632
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44951#The-Motor-Boys-in-Strange-Watersor-Lost-in-a-Floating-Forest
 gutenberg_issued: '2014-02-17'
 gutenberg_type: Text
 identifiers:
